@@ -1,3 +1,4 @@
+- De uma olhadinha em meu Linkedin:
 https://www.linkedin.com/in/ryander-godinho-ba082735/
 
 ### Olá, sou Ryander Godinho
