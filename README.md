@@ -1,5 +1,7 @@
 - De uma olhadinha em meu Linkedin:
 https://www.linkedin.com/in/ryandergodinho/
+- Portfólio:
+https://ryander.vercel.app/
 
 ### Olá, sou Ryander Godinho
 
