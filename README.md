@@ -1,8 +1,8 @@
-### Olá, sou Ryander Godinho
+<h3>Olá, sou Ryander Godinho</h3>
 
 - Desenvolvedor de Software Full Stack.
 
-### Linguagens
+<h3>Linguagens</h3>
 - TYPESCRIPT
 - REACT.JS
 - NODE.JS
